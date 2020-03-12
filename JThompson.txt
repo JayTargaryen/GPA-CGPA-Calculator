@@ -1,0 +1,145 @@
+9
+Semester 1
+Fall 2016
+2
+Air Force 1
+B
+2
+English 1
+B
+3
+Semester 2
+Spring 2017
+6
+Air Force 2
+A
+2
+Spanish 1
+B
+4
+Bowling
+A
+1
+West and the World 2
+B
+3
+Computer Science 1
+B
+4
+Business Calculus
+B
+3
+Semester 3
+Summer 2017
+1
+History and Technology
+A
+3
+Semester 4
+Fall 2017
+6
+AF 3
+A
+2
+Computer Science 2
+C
+4
+Biology 1
+C
+3
+Discrete Structures
+C
+3
+Spanish 2
+B
+4
+Biology Lab 1
+D
+1
+Semester 5
+Spring 2018
+4
+Air Force 4
+B
+2
+Software and Development Foundations
+B
+4
+Algorithms and Data Structures
+B
+3
+Biology 2
+C
+3
+Semester 6
+Fall 2018
+2
+Air Force 5
+A
+4
+Computer Organization Systems
+B
+4
+Semester 7
+Spring 2019
+4
+Air Force 6
+A
+4
+Math 1060
+C
+4
+Environmental Science
+B
+3
+Software Engineering
+B
+3
+Semester 8
+Summer 2019
+2
+Math 1080
+B
+4
+Easy course1
+A
+2
+Semester 9
+Fall 2019
+5
+Air Force 4
+A
+4
+Networks and Programming
+C
+3
+Theater Appreciation
+A
+3
+Seminar and Professional Issues
+B
+1
+Programming Systems
+C
+3
+Semester 10
+Spring 2020
+6
+Air Force 4
+A
+4
+Data Base Management
+B
+3
+Intro to Operating Systems
+C
+3
+Computer Organization Systems
+C
+3
+Special Topics
+B
+3
+Software Development Methodology
+B
+3

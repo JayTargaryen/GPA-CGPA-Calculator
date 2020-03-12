@@ -1,7 +1,4 @@
-#include <iostream>
-#include <stdlib.h>
-
-using namespace std;
+#include "Career.hpp"
 
 void calculateGPA();
 void calculateCGPA();
@@ -9,7 +6,20 @@ void calculateCGPA();
 int main()
 {
     system("cls");
+    Career career1;
+    string textfile = "";
     int input;
+    cout<<"Are you loading your information in from a file? (y) for yes" << endl;
+    char answer;
+    cin >> answer;
+    if(answer == 'y' || answer == 'Y') {
+      cout << "What is the file name? Make sure to include the 'txt on the end of the text file." << endl;
+      // string textfile = "JThompson.txt";
+      cin >> textfile;
+      career1.setSemesters(textfile);
+      career1.menu();
+      exit(0);
+    }
     cout<<"--------------------------------------------------------------------------"<<endl;
     cout<<"                    GPA & CGPA Calculator         "<<endl;
     cout<<"--------------------------------------------------------------------------\n"<<endl;
@@ -179,4 +189,4 @@ void method()
               cout<<"\n\nYou have Entered Wrong Input!Please Choose Again!"<<endl;
               goto sub;
     }
-};
+}
